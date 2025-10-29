@@ -128,6 +128,4 @@ Agora, acesse no navegador:
 ---
 
 ## 5. Conclusão
-
-Você configurou com sucesso um servidor N8N rodando em uma VM Ubuntu 24 na Oracle Cloud Infrastructure.  
-Esse ambiente pode ser utilizado para automações, integrações e orquestrações de fluxos de dados e APIs.
+Agora que vc abriu o N8N no navegador baixe e abra o arquivo **RAG_Agent_Manual_Configuracao_N8N_v1.docx** e siga as instruções para configurar o RAG Agent!
